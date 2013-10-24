@@ -1,5 +1,5 @@
 a, a:visited {
-  color: #209;
+  color: #029;
 }
 a:hover {
   color: #111;
@@ -7,7 +7,8 @@ a:hover {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 50px;
+  margin: 0; margin-bottom: 5px; margin-top: 20px;
 }
 h2 {
   clear: both;
@@ -25,7 +26,7 @@ h3 {
 }
 
 .col12 {clear: both; padding-top: 70px;}
-.col12:first-child {padding-top: 10px;}
+.col12:first-child {padding-top: 0px;}
 
 ul, ul li {
   list-style: disc;
