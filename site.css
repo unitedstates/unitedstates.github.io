@@ -1,0 +1,39 @@
+a, a:visited {
+  color: #209;
+}
+a:hover {
+  color: #111;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 40px;
+}
+h2 {
+  clear: both;
+  color: #555;
+  font-size: 14px;
+  font-variant: small-caps;
+  margin-bottom: 5px;
+  padding-left: 5px;
+}
+h3 {
+  background-color: #eee;
+  margin-bottom: 10px;
+  font-size: 20px;
+  padding-left: 7px;
+}
+
+.col12 {clear: both; padding-top: 70px;}
+.col12:first-child {padding-top: 10px;}
+
+ul, ul li {
+  list-style: disc;
+} ul {margin-bottom: 20px;}
+p.short {margin-bottom: 5px;}
+
+/*h1 {margin: 0; padding: 0;}
+.surround.project {
+  display: block; margin-bottom: 20px;
+  text-align: right; width:100%;
+}*/
