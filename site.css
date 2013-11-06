@@ -25,7 +25,7 @@ h3 {
   padding-left: 7px;
 }
 
-.col12 {clear: both; padding-top: 70px;}
+.col12 {clear: both; padding-top: 60px;}
 .col12:first-child {padding-top: 0px;}
 
 ul, ul li {
@@ -39,4 +39,4 @@ p.short {margin-bottom: 5px;}
   text-align: right; width:100%;
 }*/
 
-.col12.more {padding-top: 40px;}
+footer {font-size: 12px;}
