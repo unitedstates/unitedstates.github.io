@@ -1,6 +1,17 @@
 <!doctype html>
 <html>
 <head>
+
+  <!--
+  redirect users to the https version of the website.
+  but: only check when on the production domain.
+ -->
+  <script type="text/javascript">
+    var enforce = "theunitedstates.io";
+    if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
+
   <meta name="globalsign-domain-verification" content="CzDW4FC2Jewdj4hJXBLLpx58oAtc-hbYZSN-Q0zls2" />
 
   <title>the @unitedstates project</title>
