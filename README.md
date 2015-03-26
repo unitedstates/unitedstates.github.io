@@ -1,6 +1,6 @@
 ## theunitedstates.io
 
-A [simple homepage](http://theunitedstates.io) for this organization.
+A [simple homepage](https://theunitedstates.io) for this organization.
 
 ## Public domain
 
