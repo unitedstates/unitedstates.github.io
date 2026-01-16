@@ -1,6 +1,6 @@
-## theunitedstates.io
+## unitedstates.github.io
 
-A [simple homepage](https://theunitedstates.io) for this organization.
+A [simple homepage](https://unitedstates.github.io) for this organization.
 
 ## Public domain
 
